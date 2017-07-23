@@ -41,5 +41,8 @@
     <ClCompile Include="reverse_string.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="strings_are_permutation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

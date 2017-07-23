@@ -155,6 +155,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="test_reverse_string.cpp" />
+    <ClCompile Include="test_strings_are_permutation.cpp" />
     <ClCompile Include="test_unique_char.cpp" />
   </ItemGroup>
   <ItemGroup>
